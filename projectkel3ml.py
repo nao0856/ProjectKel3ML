@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1_TbO6fUdFyeuw1pdFYVQBRww2tJLV-52
 """
 
+!pip install matplotlib
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
